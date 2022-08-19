@@ -81,6 +81,37 @@ body {
     }
 
     li a:hover{
-        background: forestgreen;
+        background: rgb(135, 0, 139);
         color: black;
     }
+
+    #dev:hover{
+        width: 18%;
+    }
+    
+    .caixaimagem {
+        position: absolute;
+        top: 200px;
+        left: 0;
+        width: 90%;
+        height: 130px;
+        background-color: blueviolet;
+        margin: 20px;
+        border-color: rgb(84, 3, 87);
+        border-width: 20px;
+        border-style: solid;
+        padding: 20px;
+        display: flex;
+        justify-content: end;
+    }
+
+    .rodape {
+        position: absolute;
+        bottom: 0;
+    }
+    #ahh {
+    font-size: 40px;
+    text-decoration-line: underline;  color: rgb(100, 1, 92);
+   
+
+}
