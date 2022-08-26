@@ -111,7 +111,14 @@ body {
     }
     #ahh {
     font-size: 40px;
-    text-decoration-line: underline;  color: rgb(100, 1, 92);
-   
-
+    text-decoration-line: underline;
+}
+#Fifa{0
+    width: 450px;
+    height:450px;
+}
+#game {
+    text-align: center;
+    font-size: 45px;
+    color: #590056;
 }
